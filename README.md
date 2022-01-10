@@ -1,4 +1,4 @@
-# VueJs_Blog
+# VueJS Blog
 
 This is one of the projects/courses I am doing to get a better understanding in VueJS and how to make blogs.
 
